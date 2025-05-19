@@ -33,10 +33,10 @@ class AcodePlugin {
 			styleTag.textContent = `
                 .ace_cursor {
                     background-color: var(--ace-cursor-color) !important;
-                    width: 1px !important; /* Ubah lebar kursor */
-                    min-width: 1px !important; /* Untuk tambahan keamanan */
+                    width: 1px !important;
+                    min-width: 1px !important; 
                     max-width: 1px !important;
-                    border-radius: 1px !important; /* Agar ujungnya tidak kotak */
+                    border-radius: 1px !important;
                 }
             `;
 			document.head.appendChild(styleTag);
