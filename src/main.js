@@ -37,9 +37,8 @@ class AcodePlugin {
                     min-width: 1px !important; 
                     max-width: 1px !important;
                     border-radius: 1px !important;
-                }
-            `;
-			document.head.appendChild(styleTag);
+                }`;
+            document.head.appendChild(styleTag);
 		}
 	}
 
