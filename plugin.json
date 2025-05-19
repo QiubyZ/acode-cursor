@@ -1,0 +1,17 @@
+{
+	"id": "acode.cursor",
+	"name": "Cursor Blink",
+	"main": "dist/main.js",
+	"version": "1.0.0",
+	"readme": "readme.md",
+	"icon": "icon.png",
+	"files": [],
+	"minVersionCode": 290,
+	"price": 0,
+	"author": {
+		"name": "Qiuby Zhukhi",
+		"email": "qzhukhi@gmail.com",
+		"url": "https://www.facebook.com/QiubyZhuk",
+		"github": "QiubyZ"
+	}
+}
